@@ -17,7 +17,7 @@ export default function App(){
   const navigation = useNavigation();
 
   return(
-    <SafeAreaView style={exStyle.view}>``
+    <SafeAreaView style={exStyle.view}>
       <View >
       <Bg/>
 
